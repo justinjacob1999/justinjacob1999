@@ -1,4 +1,4 @@
-Currently apprentice at trailofbits, interested in Solidity/EVM/Defi stuff. Zk hobbyist. 
+Currently security engineer at trailofbits, interested in Solidity/EVM/Defi stuff. Cryptography/Zk hobbyist. 
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
